@@ -10,7 +10,7 @@ import numpy as np
 classes = ["cat","dog"]
 image_size = 50
 
-UPLOAD_FOLDER = "uploads"
+UPLOAD_FOLDER = "sugi_app/uploads"
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
 
 app = Flask(__name__)
